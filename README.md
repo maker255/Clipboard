@@ -12,7 +12,7 @@
 
 ![3](pic/07-04_09-56-12.png)
 
-![4](/Users/mac/Documents/Clipboard/pic/07-04_09-56-47.png)
+![4](pic/07-04_09-56-47.png)
 
 ## 特性
 
