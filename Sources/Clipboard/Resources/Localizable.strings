@@ -1,0 +1,41 @@
+/* Menu bar */
+"menu.showPanel" = "Show Panel";
+"menu.recent" = "Recent Items";
+"menu.clearHistory" = "Clear History…";
+"menu.settings" = "Settings…";
+"menu.quit" = "Quit Clipboard";
+
+/* Panel */
+"panel.searchPlaceholder" = "Search clipboard…";
+"panel.empty.title" = "No clips yet";
+"panel.empty.subtitle" = "Copy anything to get started.";
+
+/* Settings tabs */
+"settings.general" = "General";
+"settings.hotkeys" = "Hotkeys";
+"settings.history" = "History";
+"settings.data" = "Data";
+
+/* Settings — General */
+"settings.launchAtLogin" = "Launch at login";
+"settings.appearance" = "Appearance";
+"settings.appearance.system" = "System";
+"settings.appearance.light" = "Light";
+"settings.appearance.dark" = "Dark";
+"settings.showInMenuBar" = "Show icon in menu bar";
+
+/* Settings — Hotkeys */
+"settings.openPanelHotkey" = "Open panel";
+"settings.recordHotkey" = "Record…";
+
+/* Settings — History */
+"settings.maxItems" = "Maximum items";
+"settings.retentionDays" = "Retention (days)";
+"settings.excludeBundles" = "Exclude apps";
+"settings.honorConcealed" = "Ignore items marked as passwords";
+
+/* Settings — Data */
+"settings.openStorage" = "Open storage folder";
+"settings.exportDB" = "Export database…";
+"settings.clearAll" = "Clear all history…";
+"settings.resetSettings" = "Reset all settings";
